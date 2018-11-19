@@ -7,4 +7,5 @@
 #>
 [CmdletBinding()]
 param()
+## Write verbose message to user about version control
 Write-Verbose "Cool message, man -- you have the version control, now?"
